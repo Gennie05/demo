@@ -1,3 +1,3 @@
 # demo
 This is my First Git Repository.
-Author-Gungun Sharma
+Author-Gungun Sharma.
